@@ -6,4 +6,5 @@ for row in output:
     for i in range(3):
         row[i] = row[i].upper()
 
+
 print(output)
